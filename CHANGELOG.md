@@ -81,7 +81,7 @@
 
 ## CodeForces - 893C
 题意：你可以收买每一个人，收买他之后相当于收买了他所有的朋友(双向的)，问最少多少钱可以收买到所有人。
-解题思路：典型的并查集，具体还是详细看注释，写了很久才懂，注一个关于[并查集的教程](http://blog.csdn.net/niushuai666/article/details/6662911"悬停显示")
+解题思路：典型的并查集，具体还是详细看注释，写了很久才懂，注一个关于[并查集的教程](http://blog.csdn.net/niushuai666/article/details/6662911)设置了超链接，但是发现居然打不开？？？那就加个网址吧http://blog.csdn.net/niushuai666/article/details/6662911
 
 时间：2017.12.13
 
